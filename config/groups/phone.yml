@@ -1,0 +1,7 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - itools
+            - ifunbox
+            - phoneclean
+

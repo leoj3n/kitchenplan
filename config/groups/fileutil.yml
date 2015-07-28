@@ -1,0 +1,19 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - ffmpegx
+            # - doxygen
+            - unpkg
+            - curb
+            - mp4tools
+            - dupscanub
+            - appcleaner
+            - zipcleaner
+            - imagealpha
+            - imageoptim
+            - videomonkey
+            - pdfsam-basic
+            - the-unarchiver
+            - disk-inventory-x
+            - default-folder-x
+            - miro-video-converter

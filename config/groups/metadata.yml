@@ -1,0 +1,8 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - tag
+            - videospec
+            - pngcommentator
+            - musicbrainz-picard
+

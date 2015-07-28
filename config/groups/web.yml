@@ -1,0 +1,16 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - historyhound
+            - iphoney
+            - firefox
+            - integrity
+            - paparazzi
+            # - monochrome
+            - simple-css
+            # - multifirefox
+            - opera-developer
+            # - google-chrome
+            - google-hangouts
+            - quick-search-box
+            - google-chrome-canary

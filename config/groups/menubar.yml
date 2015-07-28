@@ -1,0 +1,33 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - tactor
+            # - broomstick
+            # - hr
+            - flux
+            # - hush
+            - feeds
+            # - dropin
+            - freezer
+            - mapture
+            - ejector
+            - trailer
+            - grabbox
+            # - menuola
+            - nosleep
+            - gitifier
+            - nocturne
+            # - caffeine
+            - whatpulse
+            - bartender
+            - awareness
+            # - whiteclock
+            - fileshuttle
+            - beardedspice
+            - controlplane
+            - hocus-focus
+            # - smcfancontrol
+            - macs-fan-control
+            - monotype-skyfonts
+            - slimbatterymonitor
+            # - obsidian-menu-bar-mountain-lion

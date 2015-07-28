@@ -1,0 +1,23 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - gyazo
+            # - splashtop-streamer
+            # - shadowsweeper # no shadowkiller cask?
+            - keycastr
+            - snip
+            - honer
+            - shades
+            - gawker
+            - licecap
+            - chicken
+            - camtwist
+            - simplecap
+            - screenhero
+            - switchresx
+            - screenflow
+            - pixel-check
+            - pixelpeeper
+            - mirrordisplays
+            # - remote-desktop-connection
+

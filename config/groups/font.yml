@@ -1,0 +1,17 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - font-ubuntu
+            - font-code2000
+            - font-code2001
+            - font-code2002
+            - font-fira-sans
+            - font-freesans
+            - font-terminus
+            - font-fontawesome
+            - font-inconsolata
+            - font-anonymous-pro
+            - font-source-code-pro
+            - font-source-sans-pro
+            - font-inconsolata-dz-for-powerline
+

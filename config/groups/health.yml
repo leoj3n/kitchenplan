@@ -1,0 +1,9 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - antirsi
+            - hpuload
+            - macbreakz
+            - mac-informer
+            - brain-workshop
+            - battery-guardian

@@ -1,0 +1,6 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+          # - fluid
+            - nwjs
+

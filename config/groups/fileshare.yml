@@ -1,0 +1,16 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - eye-fi
+            # - superduper
+            - cloud
+            - unison
+            - dropbox
+            - ibackup
+            - macfusion
+            - cloudpull
+            - filezilla
+            - sparkleshare
+            - transmission
+            - google-drive
+            - mediafire-desktop

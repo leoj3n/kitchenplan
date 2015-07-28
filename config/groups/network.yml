@@ -1,0 +1,17 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - ngrok
+            - sloth
+            - flame
+            - anonym
+            - icefloor
+            - port-map
+            - coolterm
+            - xquartz # req: required by wireshark
+            - wireshark # req: xquartz
+            - fseventer
+            - selfcontrol
+            - private-eye
+            - bonjour-browser
+            - angry-ip-scanner

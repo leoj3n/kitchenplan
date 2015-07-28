@@ -1,0 +1,25 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - sublime-text3
+            - gitx
+            - atom
+            - dash
+            - reggy
+            - github
+            - macvim
+            - vagrant
+            - codebug
+            - macgdbp
+            - p4merge
+            - arduino
+            - fritzing
+            - gas-mask
+            - smartgit
+            - authbuddy
+            - key-codes
+            - virtualbox
+            - sourcetree
+            - sequel-pro
+            - iterm2-beta
+            # - intellij-idea # req: java

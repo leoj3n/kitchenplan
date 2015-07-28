@@ -1,0 +1,7 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - hugin
+            - camranger
+            - enfusegui
+            - raw-photo-processor

@@ -1,0 +1,13 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - tomighty
+            - cuppa
+            - pester
+            - aurora
+            - minitimer
+            - speedcrunch
+            # - calcservice
+            - time-tracker
+            # - pemdas-widget
+            # - delivery-status

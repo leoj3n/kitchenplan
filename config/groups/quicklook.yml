@@ -1,0 +1,18 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - quicknfo
+            - scriptql
+            - qlstephen
+            - qlmarkdown
+            - betterzipql
+            - brushviewql
+            - qlcolorcode
+            - qlimagesize
+            - quicklook-pfm
+            - qlprettypatch
+            - quicklook-csv
+            - webpquicklook
+            - cert-quicklook
+            - quicklook-json
+            - suspicious-package

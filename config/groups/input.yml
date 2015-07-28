@@ -1,0 +1,10 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - steermouse
+            # - icursor
+            - teleport
+            - keyboardcleantool
+            - wacom-bamboo-tablet
+            - logitech-gaming-software
+            - xbox360-controller-driver

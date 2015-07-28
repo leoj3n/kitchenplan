@@ -1,0 +1,15 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - hall
+            # - flowdock
+            - slack
+            - skype
+            - gitter
+            # - reeder
+            - reeddit
+            - vienna
+            - hipchat
+            - mailmate
+            - night-owl
+            - teamspeak-client

@@ -1,0 +1,21 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - tilemill
+            - dia
+            - giffun
+            - pencil
+            - colors
+            - grafx
+            - icolors
+            - scribus
+            - ipalette
+            - aseprite
+            - colorpicker
+            - color-oracle
+            - colorpicker-hex
+            - colorpicker-antetype
+            - colorpicker-developer
+            - colorpicker-propicker
+            - colorpicker-skalacolor
+            - colorpicker-rcwebcolorpicker

@@ -1,0 +1,18 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - ssx
+            - bitlord
+            # - hashcat
+            - sidestep
+            # - oneswarm # req: java se6
+            # - owasp-zap
+            - frostwire
+            - bit-slicer
+            - bitmessage
+            - retroshare
+            - sitesucker
+            - speedlimit
+            - transmission
+            - packet-peeper
+            - torbrowser

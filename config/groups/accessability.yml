@@ -1,0 +1,39 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - liteicon
+            # - black-light
+            # - totalspaces
+            - eve
+            - seil
+            - moom
+            - witch
+            - ubar
+            - slate
+            - keymo
+            - alfred
+            - secrets
+            # - dockmod
+            - powerkey
+            - shortcat
+            # - flavours
+            - isolator
+            - slidemode
+            - lincastor
+            - enjoyable
+            - rightzoom
+            - wraparound
+            - plain-clip
+            - cheatsheet
+            # - tinkertool
+            - cursorcerer
+            - selfcontrol
+            - quicksilver
+            - smoothmouse
+            - growlnotify
+            - functionflip
+            # - multibrowser
+            - displaperture
+            - bettertouchtool
+            - karabiner
+            - accessmenubarapps

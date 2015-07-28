@@ -1,0 +1,16 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - onyx
+            - clix
+            - lingon-x
+            - pref-setter
+            # - startninja
+            - monolingual
+            - prefs-editor
+            - launchrocket
+            - rcdefaultapp
+            - rcenvironment
+            - preferencecleaner
+            - preference-manager
+            - chameleon-ssd-optimizer

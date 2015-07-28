@@ -1,0 +1,14 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - cfxr
+            # - sidplay
+            # - callnote
+            # - audio-hijack-pro
+            - plug
+            - mixxx
+            - noisy
+            - audacity
+            - ocenaudio
+            # - groovesquid # req: java
+

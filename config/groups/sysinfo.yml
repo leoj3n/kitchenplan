@@ -1,0 +1,8 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - xrg
+            - geektool
+            - etrecheck
+            - soundnote
+            - coconutbattery

@@ -1,0 +1,21 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - elyse
+            # - mover
+            # - tagspaces
+            # - liquifile
+            # - mucommander
+            # - path-finder
+            # - double-commander
+            # - macintosh-explorer
+            - vlc
+            - tubbler
+            - youview
+            - banshee
+            - flip4mac
+            # - mactubes
+            - xtrafinder
+            - sequential
+            # - justlooking
+            - phoenix-slides

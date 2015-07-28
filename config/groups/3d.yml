@@ -1,0 +1,5 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - sketchup
+            - sweet-home3d

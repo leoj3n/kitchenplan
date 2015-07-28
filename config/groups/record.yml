@@ -1,0 +1,10 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - buddi # req: java
+            - calibre
+            - gnucash
+            # - zotero
+            # - trailrunner
+            # - actotracker
+            # - actiontastic

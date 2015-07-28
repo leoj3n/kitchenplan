@@ -1,0 +1,6 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - steam
+            - ultrastardeluxe
+            - league-of-legends

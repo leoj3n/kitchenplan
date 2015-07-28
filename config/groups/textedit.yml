@@ -1,0 +1,11 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            - nvalt
+            - gisto
+            - kobito
+            - treesheets
+            - lightpaper
+            - libreoffice
+            - littleipsum
+            - wordservice

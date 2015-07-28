@@ -1,0 +1,7 @@
+attributes:
+    homebrewalt:
+        cask_apps:
+            # - anki
+            - tofu
+            - ireadfast
+            - mnemosyne
